@@ -1,9 +1,8 @@
 # Ground Boi Simulator
-
-# Collaborators:
-Mary Vuong, Nishant Datta, Nilsu Duran, Grayson Westfall
-
 It's that time of year, and it's time to find Ground Boi. He could be anywhere, but where is he?
+
+## Collaborators:
+Mary Vuong, Nishant Datta, Nilsu Duran, Grayson Westfall
 
 ## Summary
 
